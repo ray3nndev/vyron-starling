@@ -1,5 +1,6 @@
 package io.github.juanluci.starling;
 
+import com.movtery.zalithlauncher.R;
 import android.app.Activity;
 import android.app.Dialog;
 import android.content.DialogInterface;
