@@ -1,5 +1,6 @@
 package io.github.juanluci.starling;
 
+import com.movtery.zalithlauncher.R;
 import android.Manifest;
 import android.app.AlertDialog;
 import android.app.NativeActivity;
